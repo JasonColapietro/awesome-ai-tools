@@ -1281,6 +1281,7 @@ A growing landscape of open-source personal agents, agent frameworks, and multi-
 - **[Mira](https://github.com/vwww-droid/Mira)** — AI-assisted runtime protection analysis platform for third-party Android and iOS apps, enabling agents to use host-app-side shell, Java, Native, and Frida capabilities for environment risk detection and hardening validation.
 - **[invisible-playwright](https://github.com/feder-cr/invisible_playwright)** — Python wrapper for a stealth-patched Firefox 150 binary. Drop-in replacement for vanilla Playwright Firefox, returns a native Playwright Browser. Anti-fingerprinting at the C++ source level (Canvas, WebGL, AudioContext, Fonts, WebRTC, Timezone, DevTools detection). Useful when AI agents need anti-detect web access. MIT.
 - **[agent-qa](https://github.com/vostride/agent-qa)** — Self-improving agentic QA harness with memory for natural-language web and mobile test execution.
+- **[Suede Labs AI](https://suedeai.ai)** — Creator ownership infrastructure for AI media. Registers proof of creation, rights metadata, and royalty splits for creative assets, then exposes rights-backed media to paid agents through x402 and ACP-compatible endpoints on Base. Payment rails span credits, Stripe, Base, and Solana. → [App](https://app.suedeai.ai) · [Docs](https://github.com/Suede-AI/suede-docs)
 ---
 ## 🆕 Additional AI and Productivity Tools
 
